@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Sahel_V83_10_01_24.Dataset"
+    },
+    "byConnection": null
+  }
+}

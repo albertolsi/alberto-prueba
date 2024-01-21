@@ -1,0 +1,252 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 1.9494826164290628
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 921.32707471361027
+          },
+          "nodeIndex": "TASA_CAMBIO",
+          "nodeLineageTag": "9b709f77-8145-411f-9899-84067cecbdb6",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 263.15905404315527,
+            "y": 2.2737367544323206E-13
+          },
+          "nodeIndex": "public vista_agroc_estadis_sahel_español",
+          "nodeLineageTag": "75bb0567-2188-4a7c-b10a-31016d44a7de",
+          "size": {
+            "height": 886.367449831273,
+            "width": 357.37707736086577
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 260.54145759879833,
+            "y": 895.89335189826932
+          },
+          "nodeIndex": "public vista_agroc_estadis_sahel_ingles",
+          "nodeLineageTag": "e2be41f0-a0c0-4a1b-8010-709c8dbd0cec",
+          "size": {
+            "height": 611.91721862865006,
+            "width": 362.66585268431811
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 938.05345412562929,
+            "y": 572.65069790427913
+          },
+          "nodeIndex": "CENTINELAS_AP_español",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1582.5552766151052,
+            "y": 2.7946903022477549
+          },
+          "nodeIndex": "IPC_español",
+          "nodeLineageTag": "8118b6cc-a6ff-43d1-af17-b3543ac66109",
+          "size": {
+            "height": 555.60272495916479,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1893.50733154721,
+            "y": 0
+          },
+          "nodeIndex": "AREAS_PROTEGIDAS_español",
+          "nodeLineageTag": "61989ecc-21a6-4190-9da0-9c297a7e81b7",
+          "size": {
+            "height": 884.2347999066626,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1590.7130640020621,
+            "y": 596.23291862292933
+          },
+          "nodeIndex": "public id_localidades_v4_español",
+          "nodeLineageTag": "901c0efa-c51b-4354-b64a-46ff9a3683f1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 950.65830381468618,
+            "y": 0
+          },
+          "nodeIndex": "DATOS_CENTINELAS_2_español",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 688.80317121454846,
+            "y": 1016.7612741168712
+          },
+          "nodeIndex": "AREAS_PROTEGIDAS_ingles",
+          "nodeLineageTag": "2c707764-78c8-4eb4-908c-5b701d9c6a48",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1005.9443756938429,
+            "y": 1016.761274116871
+          },
+          "nodeIndex": "CENTINELAS_AP_ingles",
+          "nodeLineageTag": "a89ff8b6-09fd-453a-a463-70b912b05e31",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1289.9443756938429,
+            "y": 1016.7612741168709
+          },
+          "nodeIndex": "DATOS_CENTINELAS_2_ingles",
+          "nodeLineageTag": "ca345db5-ff46-4935-95df-12507e173296",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1602.5621529416355,
+            "y": 1012.8623088840127
+          },
+          "nodeIndex": "IPC_ingles",
+          "nodeLineageTag": "f630bd62-0da9-45b3-a281-b5d815582e11",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1924.3028663995583,
+            "y": 1007.0138610347257
+          },
+          "nodeIndex": "public id_localidades_v4_ingles",
+          "nodeLineageTag": "58608224-9b51-462e-bf0c-3956b8cb68e1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 644.91374568337528,
+            "y": 0
+          },
+          "nodeIndex": "ACLED",
+          "size": {
+            "height": 880.97171737167332,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1232.6401026143874,
+            "y": 0
+          },
+          "nodeIndex": "DATOS_CENTINELAS",
+          "size": {
+            "height": 894.80437730909375,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "MUNICIPIOS",
+          "size": {
+            "height": 370.32493409569355,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5.84844784928719,
+            "y": 536.74012603576193
+          },
+          "nodeIndex": "POBLACION",
+          "nodeLineageTag": "6ebe5e5c-eb5c-4f22-8467-ae43bbb8c85a",
+          "size": {
+            "height": 209.68286195619453,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 51.295661298675022,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [],
+      "name": "Disposición 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
